@@ -1,4 +1,4 @@
-# Voting dApp 
+# Decentralized add candidates dApp 
 Web3 dApp for understanding how it works<br>
 
 Used in this file:<br>
